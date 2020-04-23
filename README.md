@@ -1,5 +1,5 @@
 # Install Flutter
-This guide will show you how to install [Flutter](http://flutter.io/) on MacOS, and add Flutter CLI globally.
+This guide will show you how to install [Flutter](http://flutter.io/) on MacOS, and add Flutter CLI globally. Run the following commands in Terminal:
 
 ```bash
 # Grab the latest stable version of Flutter
