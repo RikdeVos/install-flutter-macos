@@ -16,6 +16,8 @@ Optionally, if you're using [Oh My ZSH](https://github.com/ohmyzsh/ohmyzsh):
 echo 'export PATH="/usr/local/flutter/bin:$PATH"' >> ~/.zshrc
 ```
 
+That's it! You can now start using **Flutter CLI**. Be sure you open a new Terminal tab before you start using the `flutter` command.
+
 # Update Flutter
 To update Flutter to the latest version, run the following:
 ```bash
